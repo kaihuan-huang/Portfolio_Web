@@ -4,6 +4,18 @@
 
 Built a responsive Portfolio Website that can showcase the skills and talent to employers by using flexbox, media, and CSS variables......
 
-Portfolio_Website
+Portfolio_Website mock-up
 
-## Resources
+-Corresponding navigation.
+
+-Presenting the developer's name, projects, contact information, etc.
+
+-Project images will show bigger and moving when you click or hover them, you can click the link to see more details.
+
+-Presenting with a responsive layout that adapts to various screens and devices.
+
+## Resources:
+
+https://pixabay.com/
+https://colorhunt.co/palette/b5eaeaedf6e5ffbcbcf38ba0
+https://www.youtube.com/watch?v=_xkSvufmjEs&t=7602s
